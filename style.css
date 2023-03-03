@@ -1,5 +1,5 @@
 .box {
-    transition: background-color , 1s, 1s, transform 2s;
+    transition: background-color , 1ms, 1s, transform 2s;
     background-color: #F16767;
   }
   
